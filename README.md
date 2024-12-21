@@ -75,16 +75,21 @@ create my own VPN server using AWS - OpenVpn
 
 ## Practical ( connect VPN ) - another PC
 
-![IMG_20241222_040143](https://github.com/user-attachments/assets/4a6695d8-4a31-49cd-9f36-edb90573939d)
+<img width="95%" src="https://github.com/user-attachments/assets/4a6695d8-4a31-49cd-9f36-edb90573939d">
 
 <details>
-  
-![IMG20241222032659](https://github.com/user-attachments/assets/8904acfd-375f-426c-81b7-be57f218378c)
-![IMG_20241222_032841](https://github.com/user-attachments/assets/a790767a-cca0-4baa-8666-8db7d8a42641)
-![IMG20241222033008](https://github.com/user-attachments/assets/8d742aca-78ad-4844-8e3e-69a5d2ed0915)
-![IMG20241222033238](https://github.com/user-attachments/assets/dd2d035a-4e09-47fb-b85b-d98b3bc0aa74)
+
+<p> 
+<img width="45%" src="https://github.com/user-attachments/assets/8904acfd-375f-426c-81b7-be57f218378c">
+<img width="45%" src="https://github.com/user-attachments/assets/a790767a-cca0-4baa-8666-8db7d8a42641">
+</p>
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/8d742aca-78ad-4844-8e3e-69a5d2ed0915">
+<img width="45%" src="https://github.com/user-attachments/assets/dd2d035a-4e09-47fb-b85b-d98b3bc0aa74">
+</p>
+
 </details>
 
-![IMG_20241222_040245](https://github.com/user-attachments/assets/6152cbdf-b0a0-4217-a843-12fd4a731168)
+<img width="95%" src="https://github.com/user-attachments/assets/6152cbdf-b0a0-4217-a843-12fd4a731168">
 
 
