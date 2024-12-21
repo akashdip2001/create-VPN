@@ -33,27 +33,42 @@ create my own VPN server using AWS - OpenVpn
 
 ## setup OpenVPN
 
-![Screenshot (793)](https://github.com/user-attachments/assets/dab696cd-cffc-4f59-8445-7822d552aa53)
-![Screenshot (794)](https://github.com/user-attachments/assets/358b6c3b-2063-4858-838d-a90dc6869e7a)
-![Screenshot (796)](https://github.com/user-attachments/assets/ea81147e-cebd-4809-8517-8e1f29979428)
-![Screenshot (797)](https://github.com/user-attachments/assets/da8bd102-40ce-4f7d-a39e-3af9f23da847)
-![Screenshot (799)](https://github.com/user-attachments/assets/94fc1990-6338-403f-b598-771bc91532d1)
-![Screenshot (800)](https://github.com/user-attachments/assets/8eec6299-de2c-4eac-99b0-5d38ca3e0123)
-![Screenshot (801)](https://github.com/user-attachments/assets/53df2154-f50f-4535-9794-c9bff286977a)
-![Screenshot (802)](https://github.com/user-attachments/assets/53870cec-0691-4618-9b71-83fbc03ecc06)
-![Screenshot (803)](https://github.com/user-attachments/assets/51c03b7b-4586-4e12-ab56-4c3f82515762)
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/dab696cd-cffc-4f59-8445-7822d552aa53">
+<img width="45%" src="https://github.com/user-attachments/assets/358b6c3b-2063-4858-838d-a90dc6869e7a">
+</p>
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/ea81147e-cebd-4809-8517-8e1f29979428">
+<img width="45%" src="https://github.com/user-attachments/assets/da8bd102-40ce-4f7d-a39e-3af9f23da847">
+</p>
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/94fc1990-6338-403f-b598-771bc91532d1">
+<img width="45%" src="https://github.com/user-attachments/assets/8eec6299-de2c-4eac-99b0-5d38ca3e0123">
+</p>
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/53df2154-f50f-4535-9794-c9bff286977a">
+<img width="45%" src="https://github.com/user-attachments/assets/53870cec-0691-4618-9b71-83fbc03ecc06">
+</p>
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/51c03b7b-4586-4e12-ab56-4c3f82515762">
 
 ## connect OpenVPN server
 
-![Screenshot (805)](https://github.com/user-attachments/assets/cb625891-1b7b-4ae2-8c60-95aceb9907da)
-![Screenshot (806)](https://github.com/user-attachments/assets/650386d3-d5d3-41c2-89f7-edba1466c20e)
-![Screenshot (807)](https://github.com/user-attachments/assets/cb4d0f6b-3cdd-443a-ad78-eabbe5e663e7)
-![Screenshot (808)](https://github.com/user-attachments/assets/5ec8a2e5-2f8b-4492-ad96-c240c325c6d2)
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/cb625891-1b7b-4ae2-8c60-95aceb9907da">
+<img width="45%" src="https://github.com/user-attachments/assets/650386d3-d5d3-41c2-89f7-edba1466c20e">
+</p>
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/cb4d0f6b-3cdd-443a-ad78-eabbe5e663e7">
+<img width="45%" src="https://github.com/user-attachments/assets/5ec8a2e5-2f8b-4492-ad96-c240c325c6d2">
+</p>
 
 ## connect OpenVPN clint
 
-![Screenshot (809)](https://github.com/user-attachments/assets/8d1a0c6f-4982-4de1-84e1-41bc538da687)
-![Screenshot (811)](https://github.com/user-attachments/assets/725de695-8138-4481-965c-59c9b9d1cab7)
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/8d1a0c6f-4982-4de1-84e1-41bc538da687">
+<img width="45%" src="https://github.com/user-attachments/assets/725de695-8138-4481-965c-59c9b9d1cab7">
+</p>
 
 ## Practical ( connect VPN ) - another PC
 
