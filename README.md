@@ -75,7 +75,12 @@ create my own VPN server using AWS - OpenVpn
 
 ## Practical ( connect VPN ) - another PC
 
-<img width="95%" src="https://github.com/user-attachments/assets/4a6695d8-4a31-49cd-9f36-edb90573939d">
+```
+sudo systemctl enable openvpnas
+```
+<img align="right" alt="python_logo" width="45%" src="https://github.com/user-attachments/assets/6152cbdf-b0a0-4217-a843-12fd4a731168"> 
+
+<img width="45%" src="https://github.com/user-attachments/assets/4a6695d8-4a31-49cd-9f36-edb90573939d">
 
 <details>
 
@@ -90,6 +95,5 @@ create my own VPN server using AWS - OpenVpn
 
 </details>
 
-<img width="95%" src="https://github.com/user-attachments/assets/6152cbdf-b0a0-4217-a843-12fd4a731168">
 
 
