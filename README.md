@@ -43,5 +43,18 @@ create my own VPN server using AWS - OpenVpn
 ![Screenshot (802)](https://github.com/user-attachments/assets/53870cec-0691-4618-9b71-83fbc03ecc06)
 ![Screenshot (803)](https://github.com/user-attachments/assets/51c03b7b-4586-4e12-ab56-4c3f82515762)
 
+## connect OpenVPN server
+
+![Screenshot (805)](https://github.com/user-attachments/assets/cb625891-1b7b-4ae2-8c60-95aceb9907da)
+![Screenshot (806)](https://github.com/user-attachments/assets/650386d3-d5d3-41c2-89f7-edba1466c20e)
+![Screenshot (807)](https://github.com/user-attachments/assets/cb4d0f6b-3cdd-443a-ad78-eabbe5e663e7)
+![Screenshot (808)](https://github.com/user-attachments/assets/5ec8a2e5-2f8b-4492-ad96-c240c325c6d2)
+
+## connect OpenVPN clint
+
+![Screenshot (809)](https://github.com/user-attachments/assets/8d1a0c6f-4982-4de1-84e1-41bc538da687)
+![Screenshot (811)](https://github.com/user-attachments/assets/725de695-8138-4481-965c-59c9b9d1cab7)
+
+## Practical ( connect VPN ) - another PC
 
 
