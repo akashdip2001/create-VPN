@@ -10,14 +10,24 @@ create my own VPN server using AWS - OpenVpn
 
 ## AWS EC2 setup
 
-![Screenshot (783)](https://github.com/user-attachments/assets/405ac8ee-09ba-46de-a43d-e3a0b9327dfb)
-![Screenshot (784)](https://github.com/user-attachments/assets/75ce940c-fcae-4fd5-b1f5-273137ff160a)
-![Screenshot (785)](https://github.com/user-attachments/assets/13fbe749-9027-4be3-b3f9-f7d01b8703a0)
-![Screenshot (786)](https://github.com/user-attachments/assets/621b93b0-1772-4bd7-8f0e-182db739ce17)
-![Screenshot (787)](https://github.com/user-attachments/assets/236e83ae-64de-4c63-b691-585de1c674fa)
-![Screenshot (788)](https://github.com/user-attachments/assets/a1e54380-3562-4733-8f19-f63631a32601)
-![Screenshot (789)](https://github.com/user-attachments/assets/5f0938e5-a201-4e8e-808b-4d04cf09e28f)
-![Screenshot (790)](https://github.com/user-attachments/assets/9fba9dae-c21a-4fff-aec1-46454ae76eda)
-![Screenshot (791)](https://github.com/user-attachments/assets/d1514c7e-9f79-451d-9c29-40bac83027f8)
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/405ac8ee-09ba-46de-a43d-e3a0b9327dfb">
+<img width="45%" src="https://github.com/user-attachments/assets/75ce940c-fcae-4fd5-b1f5-273137ff160a">
+</p>
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/13fbe749-9027-4be3-b3f9-f7d01b8703a0">
+<img width="45%" src="https://github.com/user-attachments/assets/621b93b0-1772-4bd7-8f0e-182db739ce17">
+</p>
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/236e83ae-64de-4c63-b691-585de1c674fa">
+<img width="45%" src="https://github.com/user-attachments/assets/a1e54380-3562-4733-8f19-f63631a32601">
+</p>
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/5f0938e5-a201-4e8e-808b-4d04cf09e28f">
+<img width="45%" src="https://github.com/user-attachments/assets/9fba9dae-c21a-4fff-aec1-46454ae76eda">
+</p>
+<p>
+<img width="45%" src="https://github.com/user-attachments/assets/d1514c7e-9f79-451d-9c29-40bac83027f8">
+</p>
 
 
